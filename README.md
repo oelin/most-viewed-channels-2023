@@ -10,4 +10,4 @@ Only channels satisfying the following conditions were selected:
 - Between 10K and 100M subscribers.
 - Located in the U.S.
 
-Assuming `stats.video` is accurate, this dataset constitutes a complete population of 2023 YouTube channels satisfying the above conditions.
+Assuming `stats.video` is accurate, this dataset constitutes a complete *population* of 2023 YouTube channels satisfying the above conditions.
